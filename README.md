@@ -1,5 +1,4 @@
-# IDS705-Kaggle-Competition
-IDS705 Kaggle Competition Spring 2020
+# IDS705 Kaggle Competition Spring 2020
 Duke University
 
 ## Team members:
