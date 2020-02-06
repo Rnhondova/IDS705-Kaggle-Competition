@@ -3,8 +3,9 @@ IDS705 Kaggle Competition Spring 2020
 Duke University
 
 ## Team members:
-Ronald Nhondova
-Tien-Yu Liu
-Christy Hu
-Altamash Rafiq
-Srishti Saha
+
+* Ronald Nhondova
+* Tien-Yu Liu
+* Christy Hu
+* Altamash Rafiq
+*Srishti Saha
