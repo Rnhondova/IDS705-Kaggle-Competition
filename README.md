@@ -7,4 +7,4 @@ Duke University
 * Tien-Yu Liu
 * Christy Hu
 * Altamash Rafiq
-*Srishti Saha
+* Srishti Saha
